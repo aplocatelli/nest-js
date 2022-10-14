@@ -1,6 +1,6 @@
 # NestJS from scratch
 
-## Install dependecies
+## Install dependencies
 
 npm install
 
